@@ -20,7 +20,7 @@ Hard: 30 seconds
 Next level button appears after completing each level.
 Visual feedback for matched pairs and incorrect guesses.
 
-**How to Run**
+How to Run**
 Clone the repository to your local machine.
 Open the index.html file in a web browser.
 The game will start automatically.
